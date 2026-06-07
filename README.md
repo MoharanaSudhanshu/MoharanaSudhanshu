@@ -13,7 +13,7 @@ Computer Science Engineering Student | AI & ML Enthusiast
 - 💻 Full Stack Web Developer
 - 🌱 Currently learning Deep Learning & MERN Stack
 - 🔭 Working on Heart Disease Prediction using ML
-- 📫 Reach me at: your-email@gmail.com
+- 📫 Reach me at: moharanasudhanshu1@gmail.com
 
 ---
 
