@@ -59,7 +59,7 @@ Deep Learning based image classification system.
 
 [Portfolio](moharanasudhanshu.netlify.app)
 |
-[LinkedIn]([https://linkedin-link](https://www.linkedin.com/in/sudhanshu-sekhar-moharana-518b85290/))
+[LinkedIn](https://www.linkedin.com/in/sudhanshu-sekhar-moharana-518b85290/)
 |
 [GitHub](https://github.com/MoharanaSudhanshu)
 
