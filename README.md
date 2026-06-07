@@ -19,18 +19,30 @@ Computer Science Engineering Student | AI & ML Enthusiast
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=
-html,css,js,
-react,tailwind,
-nodejs,express,
-mongodb,postgresql,
-java,python,c,cpp,
-git,github,vscode,postman,
-figma,tensorflow
-&perline=8" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 ---
 
 ## 🏆 Achievements
