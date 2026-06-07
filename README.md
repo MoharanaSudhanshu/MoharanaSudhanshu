@@ -69,10 +69,10 @@ Deep Learning based image classification system.
 
 ![](https://github-readme-stats.vercel.app/api?username=MoharanaSudhanshu&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?MoharanaSudhanshu&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MoharanaSudhanshu&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?MoharanaSudhanshu&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoharanaSudhanshu&layout=compact&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=MoharanaSudhanshu&color=blue)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MoharanaSudhanshu&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
