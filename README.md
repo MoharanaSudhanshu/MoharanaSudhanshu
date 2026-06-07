@@ -75,4 +75,4 @@ Deep Learning based image classification system.
 
 ![](https://komarev.com/ghpvc/?username=MoharanaSudhanshu&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MoharanaSudhanshu&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
