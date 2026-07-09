@@ -132,7 +132,7 @@ Computer Science Engineering Student • AI/ML Enthusiast • Full Stack Develop
 | **📄 DocuMind AI** | AI-powered PDF chatbot using Retrieval-Augmented Generation. | Next.js, FastAPI, LangChain, OpenAI, Supabase |
 | **🚗 DriveEase** | Full-stack MERN car rental platform with authentication and booking system. | React, Node.js, Express, MongoDB |
 | **🩺 ProtectScan** | Privacy-preserving CNN framework for breast cancer detection (98% accuracy). | TensorFlow, Python, ResNet50 |
-| **❤️ Heart Disease Prediction** | ML web app achieving 92% accuracy using Logistic Regression & Random Forest. | Python, Flask |
+| **❤️ Heart Disease Prediction** | ML web app achieving 92% accuracy using Logistic Regression & Random Forest. | Python, Flask, Next.js |
 
 
 
@@ -150,18 +150,10 @@ Computer Science Engineering Student • AI/ML Enthusiast • Full Stack Develop
 
 # 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MoharanaSudhanshu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=MoharanaSudhanshu&theme=tokyonight&hide_border=true"/>
-
-</p>
+<h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MoharanaSudhanshu&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=MoharanaSudhanshu&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
