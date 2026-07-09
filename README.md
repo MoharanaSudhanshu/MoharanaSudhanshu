@@ -152,7 +152,7 @@ Computer Science Engineering Student • AI/ML Enthusiast • Full Stack Develop
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MoharanaSudhanshu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MoharanaSudhanshu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=MoharanaSudhanshu&theme=tokyonight&hide_border=true"/>
 
@@ -160,7 +160,7 @@ Computer Science Engineering Student • AI/ML Enthusiast • Full Stack Develop
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoharanaSudhanshu&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MoharanaSudhanshu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
