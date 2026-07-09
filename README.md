@@ -89,7 +89,7 @@ Deep learning based image classification system for early detection.
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoharanaSudhanshu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=MoharanaSudhanshu&show_icons=true&theme=tokyonight](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MoharanaSudhanshu&show_icons=true&theme=tokyonight)&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoharanaSudhanshu&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 <p align="center">
