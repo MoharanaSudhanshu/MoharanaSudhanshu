@@ -125,110 +125,16 @@ Computer Science Engineering Student • AI/ML Enthusiast • Full Stack Develop
 
 ---
 
-# ⭐ Featured Projects
+## 🚀 Featured Projects
 
-## 📄 DocuMind AI (RAG Chatbot)
+| Project | Description | Tech |
+|---------|-------------|------|
+| **📄 DocuMind AI** | AI-powered PDF chatbot using Retrieval-Augmented Generation. | Next.js, FastAPI, LangChain, OpenAI, Supabase |
+| **🚗 DriveEase** | Full-stack MERN car rental platform with authentication and booking system. | React, Node.js, Express, MongoDB |
+| **🩺 ProtectScan** | Privacy-preserving CNN framework for breast cancer detection (98% accuracy). | TensorFlow, Python, ResNet50 |
+| **❤️ Heart Disease Prediction** | ML web app achieving 92% accuracy using Logistic Regression & Random Forest. | Python, Flask |
 
-AI-powered PDF Chat application using Retrieval-Augmented Generation.
 
-### Tech Stack
-
-FastAPI • Next.js • LangChain • OpenAI • HuggingFace • Supabase
-
-✨ Features
-
-- Upload PDFs
-- Semantic Search
-- AI Chat
-- Vector Database
-- Streaming Responses
-
-🔗 Repository:
-https://github.com/MoharanaSudhanshu/your-repo-name
-
----
-
-## 🚗 DriveEase
-
-Full Stack Car Rental Platform
-
-### Tech Stack
-
-React • Node.js • Express • MongoDB • JWT
-
-✨ Features
-
-- Authentication
-- Car Booking
-- Admin Dashboard
-- REST APIs
-- Responsive UI
-
-🔗 Repository
-
-https://github.com/MoharanaSudhanshu/your-repo-name
-
----
-
-## 🩺 ProtectScan
-
-Privacy-Focused Breast Cancer Detection Framework
-
-### Highlights
-
-✅ 98% Accuracy
-
-✅ 10,000+ Mammograms
-
-✅ Grad-CAM Visualization
-
-✅ AES Encryption
-
-### Tech
-
-Python
-
-TensorFlow
-
-ResNet50
-
-EfficientNet
-
-🔗 Repository
-
-https://github.com/MoharanaSudhanshu/your-repo-name
-
----
-
-## ❤️ Heart Disease Prediction
-
-Machine Learning Web Application
-
-### Highlights
-
-✅ 92% Accuracy
-
-✅ Logistic Regression
-
-✅ Random Forest
-
-### Tech
-
-Python
-
-Flask
-
-HTML
-
-CSS
-
-JavaScript
-
-🔗 Repository
-
-https://github.com/MoharanaSudhanshu/your-repo-name
-
----
 
 # 🏆 Achievements
 
@@ -246,7 +152,7 @@ https://github.com/MoharanaSudhanshu/your-repo-name
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MoharanaSudhanshu&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MoharanaSudhanshu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=MoharanaSudhanshu&theme=tokyonight&hide_border=true"/>
 
@@ -254,7 +160,7 @@ https://github.com/MoharanaSudhanshu/your-repo-name
 
 <p align="center">
 
-<img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MoharanaSudhanshu&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoharanaSudhanshu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -279,11 +185,9 @@ https://github.com/MoharanaSudhanshu/your-repo-name
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
 
-<a href="https://www.hackerrank.com/">
+
+<a href="[https://www.hackerrank.com/](https://www.hackerrank.com/profile/moharanasudhans1)">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
