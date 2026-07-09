@@ -1,190 +1,322 @@
-<h1 align="center">Hi there, I'm Sudhanshu Sekhar Moharana 👋</h1>
-<h3 align="center">Computer Science Engineering Student | AI & ML Enthusiast | Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Sudhanshu Sekhar Moharana</h1>
+
+<h3 align="center">
+Computer Science Engineering Student • AI/ML Enthusiast • Full Stack Developer
+</h3>
 
 <p align="center">
   <a href="https://moharanasudhanshu.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CSE+Student+at+SUIIT;AI+%26+ML+Enthusiast;Full+Stack+Web+Developer;Currently+learning+Deep+Learning+%26+MERN&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Developer;Full+Stack+MERN+Developer;Building+Generative+AI+Applications;Research+Intern+at+NIT+Rourkela" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoharanaSudhanshu&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MoharanaSudhanshu&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sudhanshu-sekhar-moharana-518b85290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://github.com/MoharanaSudhanshu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
+
   <a href="mailto:moharanasudhanshu1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://moharanasudhanshu.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech CSE student at **SUIIT**
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 💻 Full Stack Web Developer (MERN)
-- 🌱 Currently learning **Deep Learning** & advanced MERN patterns
-- 🔭 Currently building: **Heart Disease Prediction using ML**
-- 📫 Reach me at: **moharanasudhanshu1@gmail.com**
+🎓 B.Tech Computer Science Engineering Student at **SUIIT, Sambalpur University**
+
+🔬 Former **Research Intern at NIT Rourkela**
+
+🤖 Passionate about
+
+- Artificial Intelligence
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+
+💻 Experienced in
+
+- MERN Stack Development
+- REST APIs
+- Machine Learning
+- FastAPI
+- LangChain
+
+🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Agentic AI
+- Advanced RAG
+- System Design
+
+💼 Looking for
+
+- Software Engineering Internship
+- AI/ML Internship
+- Full Stack Development Roles
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Experience
 
-**Languages**
+## 🔬 Research Intern — NIT Rourkela
+
+**May 2025 – July 2025**
+
+- Conducted research in AI & Deep Learning
+- Built privacy-preserving CNN models
+- Worked on breast cancer image classification
+- Improved model interpretability using Grad-CAM
+- Applied encryption techniques for secure medical imaging
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
 </p>
 
-**Frontend**
+## Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 </p>
 
-**Backend**
+## Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 </p>
 
-**Databases**
+## Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite"/>
 </p>
 
-**Tools**
+## AI / ML
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+# ⭐ Featured Projects
 
-- 🥇 Code-o-Olympics Participant
-- 🎖️ Hacktoberfest Contributor
-- 🏆 AI/ML Project Developer
+## 📄 DocuMind AI (RAG Chatbot)
+
+AI-powered PDF Chat application using Retrieval-Augmented Generation.
+
+### Tech Stack
+
+FastAPI • Next.js • LangChain • OpenAI • HuggingFace • Supabase
+
+✨ Features
+
+- Upload PDFs
+- Semantic Search
+- AI Chat
+- Vector Database
+- Streaming Responses
+
+🔗 Repository:
+https://github.com/MoharanaSudhanshu/your-repo-name
 
 ---
 
-## 🚀 Featured Projects
+## 🚗 DriveEase
 
-### ❤️ [Heart Disease Prediction](https://github.com/MoharanaSudhanshu)
-Machine learning model achieving 92% accuracy using Logistic Regression and Random Forest.
+Full Stack Car Rental Platform
 
-### 🧠 [Cervical Cancer Detection](https://github.com/MoharanaSudhanshu)
-Deep learning based image classification system for early detection.
+### Tech Stack
 
-> 💡 Tip: link each project title directly to its GitHub repo once they're public — recruiters click straight through from here.
+React • Node.js • Express • MongoDB • JWT
+
+✨ Features
+
+- Authentication
+- Car Booking
+- Admin Dashboard
+- REST APIs
+- Responsive UI
+
+🔗 Repository
+
+https://github.com/MoharanaSudhanshu/your-repo-name
 
 ---
 
-## 📊 GitHub Stats
+## 🩺 ProtectScan
+
+Privacy-Focused Breast Cancer Detection Framework
+
+### Highlights
+
+✅ 98% Accuracy
+
+✅ 10,000+ Mammograms
+
+✅ Grad-CAM Visualization
+
+✅ AES Encryption
+
+### Tech
+
+Python
+
+TensorFlow
+
+ResNet50
+
+EfficientNet
+
+🔗 Repository
+
+https://github.com/MoharanaSudhanshu/your-repo-name
+
+---
+
+## ❤️ Heart Disease Prediction
+
+Machine Learning Web Application
+
+### Highlights
+
+✅ 92% Accuracy
+
+✅ Logistic Regression
+
+✅ Random Forest
+
+### Tech
+
+Python
+
+Flask
+
+HTML
+
+CSS
+
+JavaScript
+
+🔗 Repository
+
+https://github.com/MoharanaSudhanshu/your-repo-name
+
+---
+
+# 🏆 Achievements
+
+🥇 Research Intern at NIT Rourkela
+
+🏆 AI/ML Project Developer
+
+🚀 Built Multiple Full Stack Applications
+
+📚 Passionate Open Source Learner
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoharanaSudhanshu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoharanaSudhanshu&theme=tokyonight" alt="GitHub Streak" height="165"/>
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MoharanaSudhanshu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=MoharanaSudhanshu&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoharanaSudhanshu&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoharanaSudhanshu&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
+<img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MoharanaSudhanshu&layout=compact&theme=tokyonight&hide_border=true"/>
 
-> ⚠️ If any widget above shows "Failed to retrieve" or a broken icon, it's usually a temporary rate-limit on the shared public API — see the setup notes at the bottom of this README for fixes.
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoharanaSudhanshu&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 📚 Currently Working On
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MoharanaSudhanshu/MoharanaSudhanshu/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-> Generated via a GitHub Action (`Platane/snk`) that regenerates daily — see setup steps at the bottom if the snake doesn't render yet.
-
----
-
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+- 🤖 AI Agents
+- 📄 RAG Systems
+- 🧠 Deep Learning
+- ⚡ FastAPI
+- 🚀 MERN Stack
+- ☁️ Cloud Deployment
 
 ---
 
-## 🌱 Currently Learning
+# 🌐 Coding Profiles
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning-in%20progress-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/MERN%20Stack-leveling%20up-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA-practicing-orange?style=flat-square" />
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to connect!</i> ⭐</p>
+# 📫 Connect With Me
 
-<details>
-<summary>⚙️ Setup notes (for me, future reference)</summary>
+<p align="center">
 
-**Contribution Snake workflow** — add `.github/workflows/snake.yml`:
+<a href="mailto:moharanasudhanshu1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-\`\`\`yaml
-name: Generate Snake
+<a href="https://www.linkedin.com/in/sudhanshu-sekhar-moharana-518b85290/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+<a href="https://moharanasudhanshu.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: MoharanaSudhanshu
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+</p>
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-\`\`\`
+---
 
-Run the workflow once manually (Actions tab → Run workflow) so the `output` branch exists before the image loads.
+<div align="center">
 
-**If GitHub Stats / Trophies show a broken icon or "Failed to retrieve":**
-1. Wait and refresh — usually a temporary rate limit on the shared public instance.
-2. Try the mirror: `https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MoharanaSudhanshu...`
-3. Self-host your own copy of github-readme-stats on Vercel with your own token for a permanent fix.
+### ⭐ Thanks for visiting my profile!
 
-</details>
+*"Building intelligent systems that solve real-world problems."*
+
+If you like my projects, consider giving them a ⭐
+
+</div>
