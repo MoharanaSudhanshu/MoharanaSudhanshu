@@ -173,7 +173,7 @@ Computer Science Engineering Student • AI/ML Enthusiast • Full Stack Develop
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="[https://leetcode.com/](https://leetcode.com/u/sudhanshumoharana)">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
