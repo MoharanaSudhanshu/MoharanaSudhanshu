@@ -179,7 +179,7 @@ Computer Science Engineering Student • AI/ML Enthusiast • Full Stack Develop
 
 
 
-<a href="[https://www.hackerrank.com/profile/moharanasudhans1">
+<a href="https://www.hackerrank.com/profile/moharanasudhans1">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
